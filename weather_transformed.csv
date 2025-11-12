@@ -1,0 +1,4 @@
+city,temperature,humidity,pressure,wind_speed,date,temperature_f,day_of_week,month,year
+London,14.26,84,1004,3.6,2025-11-12 12:12:15,57.668,Wednesday,11,2025
+New York,3.84,56,1013,7.72,2025-11-12 12:12:15,38.912,Wednesday,11,2025
+Mumbai,29.99,35,1014,2.5700000000000003,2025-11-12 12:12:15,85.982,Wednesday,11,2025

@@ -1,0 +1,38 @@
+[
+    {
+        "city":"London",
+        "temperature":14.26,
+        "humidity":84,
+        "pressure":1004,
+        "wind_speed":3.6,
+        "date":1762949535000,
+        "temperature_f":57.668,
+        "day_of_week":"Wednesday",
+        "month":11,
+        "year":2025
+    },
+    {
+        "city":"New York",
+        "temperature":3.84,
+        "humidity":56,
+        "pressure":1013,
+        "wind_speed":7.72,
+        "date":1762949535000,
+        "temperature_f":38.912,
+        "day_of_week":"Wednesday",
+        "month":11,
+        "year":2025
+    },
+    {
+        "city":"Mumbai",
+        "temperature":29.99,
+        "humidity":35,
+        "pressure":1014,
+        "wind_speed":2.57,
+        "date":1762949535000,
+        "temperature_f":85.982,
+        "day_of_week":"Wednesday",
+        "month":11,
+        "year":2025
+    }
+]
