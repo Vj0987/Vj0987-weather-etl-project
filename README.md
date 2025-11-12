@@ -27,19 +27,17 @@ It collects raw weather data, transforms it for analysis, and loads it into a My
 
 ---
 
-## 📁 Project Structure
-ETL/
-│
-├── extract_weather.py # Extract weather data (from API or JSON)
-├── transform_weather.py # Clean and process data
-├── load_weather_mysql.py # Load data into MySQL
-├── publish_weather_pulsar.py # Publish messages to Pulsar topic
-├── consume_weather_pulsar.py # Consume messages from Pulsar
-│
-├── weather_raw.json # Raw data sample
-├── weather_transformed.json # Processed data
-├── weather_transformed.csv # Transformed CSV output
-└── README.md # Project documentation
+## 🗂️ Table of Contents
+- [Overview](#-overview)
+- [Architecture](#-architecture)
+- [Tech Stack](#-tech-stack)
+- [Project Structure](#-project-structure)
+- [Setup Instructions](#-setup-instructions)
+- [How It Works](#-how-it-works)
+- [Demo / Screenshots](#-demo--screenshots)
+- [Future Enhancements](#-future-enhancements)
+- [Author](#-author)
+- [License](#-license)
 
 ---
 
