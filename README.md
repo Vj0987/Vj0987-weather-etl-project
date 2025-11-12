@@ -46,7 +46,6 @@ ETL/
 ## 🚀 How to Run the Project
 
 1️⃣ Clone the Repository
-```bash
 git clone https://github.com/Vj0987/weather-etl-project.git
 cd weather-etl-project
 2️⃣ Set Up Python Environment
